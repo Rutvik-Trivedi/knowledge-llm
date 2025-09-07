@@ -1,0 +1,11 @@
+django
+djangorestframework
+spacy
+nltk
+django-enumfield
+python-dotenv
+openai
+jsonschema
+django-stubs
+djangorestframework-stubs
+psycopg2-binary
